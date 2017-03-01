@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>诗词鉴赏</title>
+</head>
+<h1>诗词鉴赏大全</h1>
+<ul>
+ <li><a href="http://www.haoshiwen.org/" title="导航链接一" target="_blank">古诗文网</a></li>
+ <li><a href="http://www.diyifanwen.com/sicijianshang/" title="导航链接二" target="_blank">第一范文网</a></li>
+ <li><a href="http://www.xigutang.com/" title="导航链接三" target="_blank">习古堂</a></li>
+</ul>
+<h2>唐诗精选</h2>
+
+<div id="李白作品">
+<h3>李白作品</h3>
+<h4> 客中作 </h4>
+<p>
+ 兰陵美酒郁金香，<br />玉碗盛来琥珀光。<br />但使主人能醉客，<br />不知何处是他乡。<br />
+</p>
+<hr />
+<h4>诗文解释</h4>
+<p>　兰陵的美酒散发出醇浓的郁金香味，用晶莹的玉碗盛来，闪烁着琥珀般的光彩。主人殷勤劝酒，客人尽情欢醉，不觉忘记自己身在异乡为客了。</p>
+<h4>词语解释</h4>
+<P> 兰陵：在今山东枣庄。<br />
+    郁金香：一种香草。古人用以浸酒，浸后酒色金黄。<br />
+    琥珀：一种树脂化石，呈黄色或赤褐色，色泽晶莹。这里形容美酒色泽如琥珀。<br /></P>
+    <h4>诗文赏析</h4>
+    <p>　<a href="http://baike.baidu.com/link?url=N0AonGiV0Hn47iTQgRCVj9mTqDLe3uyjmfHRIHXE7JGOf2SpIffnDDk051KSHyzWCX3vh3VY28VEX7yu0ciVLM2RqxOQqJFSP7eeurYv_57" title="李白" target="_blank">李白</a>于天宝初年长安之行以后，移家东鲁。本诗作于东鲁兰陵，以兰陵为"客中"，可见为开元年间的作品。在繁荣的社会背景中，李白更是重友情，嗜美酒，爱游历祖国的河山景致，在他的心中都充满了美丽。这首诗表现了李白豪放不羁的个性和盛唐的繁荣景象。<br />
+    本诗一反游子羁旅乡愁的古诗文传统，抒写了身虽为客，却乐而不觉身在他乡的乐观情感。</p>
+    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488296690644&di=62f02df2cf0082fc7133baff77e11fdf&imgtype=0&src=http%3A%2F%2Fwww.baizhan.net%2Fuploads%2F150316%2F10-1503161019493Y.jpg" title = "李白画像"/>
+    </div>
+    <hr />
+ <h2>宋词精选</h2>
+ <div id="苏轼作品">
+ <h3>苏轼作品</h3>
+ <h4>水调歌头</h4>
+ <p><em>&nbsp;丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。(序)</em></p>
+ <p>&nbsp;明月几时有，把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间？</p>
+ <p>&nbsp;转朱阁，低绮<strong>[qǐ]</strong>户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。</p>
+ <h4>诗词解释</h4>
+  <p> 丙辰年的中秋节，高兴地喝酒直到第二天早晨，喝到大醉，写了这首词，同时思念弟弟苏辙。<br />
+&nbsp;&nbsp;明月从什么时候才开始出现的？我端起酒杯遥问苍天。不知道在天上的宫殿，今天晚上是何年何月。我想要乘御清风回到天上，又恐怕在美玉砌成的楼宇，受不住高耸九天的寒冷。翩翩起舞玩赏着月下清影，哪里比得上人间。<br />
+&nbsp;&nbsp;月儿转过朱红色的楼阁，低低地挂在雕花的窗户上，照着没有睡意的自己。明月不该对人们有什么怨恨吧，为什么偏在人们离别时才圆呢？人有悲欢离合的变迁，月有阴晴圆缺的转换，这种事自古来难以周全。只希望这世上所有人的亲人能平安健康，即便相隔千里，也能共享这美好的月光。<br /></p>
+ <h4>词语解释</h4>
+ <p>丙辰：指公元1076年（宋神宗熙宁九年）。这一年苏轼在密州（今山东省诸城市）任太守。<br />
+达旦：到天亮。<br />
+子由：苏轼的弟弟苏辙的字，与其父苏洵、其兄苏轼并称"三苏"。<br />
+把酒：端起酒杯。把，执、持。<br />
+天上宫阙（què）：指月中宫殿。阙，古代城墙后的石台。<br />
+归去：回去，这里指回到月宫里去。<br />
+琼（qióng）楼玉宇：美玉砌成的楼宇，指想象中的仙宫。<br />
+不胜（shèng，旧时读shēng）经不住，承受不了。胜：承担、承受。<br />
+弄清影：意思是月光下的身影也跟着做出各种舞姿。弄：玩弄，欣赏。<br />
+何似：何如，哪里比得上。<br />
+转朱阁，低绮（qǐ）户，照无眠：月儿移动，转过了朱红色的楼阁，低低地挂在雕花的窗户上，照着没有睡意的人（指诗人自己）。朱阁：朱红的华丽楼阁。绮户： 雕饰华丽的门窗。<br />
+不应有恨，何事长（cháng）向别时圆：（月儿）不该（对人们）有什么怨恨吧，为什么偏在人们分离时圆呢？何事：为什么。
+此事：指人的"欢""合" 和月的"晴""圆"。<br />
+但：只。<br />
+千里共婵（chán ）娟（juān）：只希望两人年年平安﹐虽然相隔千里，也能一起欣赏这美好的月光。共：一起欣赏。婵娟：指月亮。<br /></p>
+ <h4>诗词赏析</h4>
+ <p>　此词是中秋望月怀人之作，表达了对胞弟苏辙的无限怀念。词人运用形象描绘手法，勾勒出一种皓月当空、亲人千里、孤高旷远的境界氛围，反衬自己遣世独立的意绪和往昔的神话传说融合一处，在月的阴晴圆缺当中，渗进浓厚的哲学意味，可以说是一首将自然和社会高度契合的感喟作品。<br />
+ 词前小序说："丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。"丙辰，是公元1076年（北宋神宗熙宁九年）。当时苏轼在密州（今<a href="http://baike.baidu.com/item/%E8%AF%B8%E5%9F%8E?fr=aladdin&fromtitle=%E5%B1%B1%E4%B8%9C%E8%AF%B8%E5%9F%8E&fromid=4945898" title = "山东诸城" target="_blank">山东诸城</a>）做太守，中秋之夜他一边赏月一边饮酒，直到天亮，于是做了这首《水调歌头》。苏轼一生，以崇高儒学、讲究实务为主。但他也"龆龀好道"，中年以后，又曾表示过"归依佛僧"，是经常处在儒释道的纠葛当中的。每当挫折失意之际，则老庄思想上升，借以帮助自己解释穷通进退的困惑。公元1071年（熙宁四年），他以开封府推官通判杭州，是为了权且避开汴京政争的漩涡。公元1074年（熙宁七年）调知密州，虽说出于自愿，实质上仍是处于外放冷遇的地位。尽管当时"面貌加丰"，颇有一些旷达表现，也难以遮掩深藏内心的郁愤。这首中秋词，正是此种宦途险恶体验的升华与总结。"大醉"遣怀是主，"兼怀子由"是辅。对于一贯秉持"尊主泽民"节操的作者来说，手足分离和私情，比起廷忧边患的国势来说，毕竟属于次要的伦理负荷。此点在题序中并有深微的提示。<br />
+ </p>
+ <img src="http://b.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=f25dc07469600c33f079d9ce22773632/d788d43f8794a4c2e420e44b0cf41bd5ad6e394a.jpg"title = "苏轼画像" />
+ </div>
+<hr />
+<ol>
+<li>古代诗人画像</li>
+<li>诗人年代排名</li>
+</ol>
+<div id="图片部分">
+<h2>古代诗人画像</h2>
+<p>王维</p>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488299065421&di=4c06bad9f397428215bb42a6778771cf&imgtype=0&src=http%3A%2F%2Fwww.zglscom.com%2Fuploads%2Fallimg%2Fc160302%2F145D59539510-460Y.jpg"title="王维" /><br />
+<p>陆游</p>
+<img src="http://img1.imgtn.bdimg.com/it/u=3461053029,2264058116&fm=23&gp=0.jpg"title="陆游咏梅图" /><br />
+</div>
+<hr />
+<div id="诗人年代排名">
+<h2>古代诗人年代排名</h2>
+<table border="1">
+<tbody>
+<caption>古代诗人信息</caption>
+<tr>
+<th>诗人名</th>
+<th>诗人朝代</th>
+<th>生猝年</th>
+</tr>
+<tr>
+<td>李白</td>
+<td>唐朝</td>
+<td>701年－762年</td>
+</tr>
+<tr>
+<td>苏轼</td>
+<td>北宋</td>
+<td>1037年－1101年</td>
+</tr>
+<tr>
+<td>陆游</td>
+<td>南宋</td>
+<td>1125年—1210年年</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr />
+<div id="侧栏部分">
+<h2>记录学习</h2>
+<h3>注册账号</h3>
+<form method="post" action="save.php">
+<table id="账号">
+<tr>
+<td>请输入注册邮箱：</td>
+<td><input type="email" name="mail" placeholder="邮箱格式：xxx@xxx.com" /></td>
+</tr>
+<tr>
+<td>请输入注册密码：</td>
+<td><input type="password" name="pass" placeholder="***" /></td>
+</tr>
+<tr>
+<td>请确认注册密码：</td>
+<td><input type="password" name="pass" placeholder="***" /></td>
+</tr>
+<tr>
+<td>密码为6到16位英文数字</td>
+</tr>
+</table>
+
+<table id="详细信息">
+<tr>
+<td>性别</td>
+<td>
+<label for="man" >男</label>
+<input type="radio" name="gender" id="man" checked="checked" />
+<label for="woman">女</label>
+<input type="radio" name="gender" id="woman" />
+</td>
+</tr>
+<tr>
+<td><label for="city">城市</label></td>
+<td>
+<select id="city">
+<option value="北京"  selected="selected">北京</option>
+<option value="上海">上海</option>
+<option value="广州">广州</option>
+<option value="西藏">西藏</option>
+<option value="杭州">杭州</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>爱好</td>
+<td>
+<label for="1">读书</label>
+<input type="checkbox" name="读书" id="1" />
+<label for="2">运动</label>
+<input type="checkbox" name="运动" id="2" />
+<label for="3">购物</label>
+<input type="checkbox" name="购物" id="3" />
+<label for="4">旅游</label>
+<input type="checkbox" name="旅游" id="4" />
+</td>
+</tr>
+<tr>
+<td><label for="介绍">个人描述</label></td>
+<td>
+<textarea cols="50" rows="10" placeholder="请输入您的个人描述" id="介绍"></textarea>
+</td>
+</tr>
+
+</table>
+<input type="submit" value="确定" />
+<input type="reset" value="重置" />
+</form>
+</div>
+
+
+<body>
+
+
+</body>
+</html>
